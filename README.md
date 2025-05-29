@@ -35,7 +35,7 @@ Du får lägga till egenskaper men inte ta bort något.
 
 ### Felhantering
 
-Alla API-resurser ska returnera JSON eller en HTTP statuskod:
+Alla API-resurser ska returnera JSON eller en HTTP statuskod, dessa är exempel, finns det bättre statuskoder att använda, gör det:
 
 **200 (OK)** - Om servern lyckats med att göra det som resursen motsvarar.
 
@@ -64,7 +64,7 @@ Inlämning sker på Canvas med en länk till ditt Github repo med din kod senast
 
 ## Redovisningar
 
-De sker under lektions tid på onsdag 18/6 - fredag 20/6. 
+De sker under lektions tid på tisdag 17/6 - torsdag 19/6. 
 
 
 
